@@ -1,7 +1,7 @@
-# Traduction DARRP en Français
-Traduction du Gamemode DARKRP en Français
+# Traduction du gamemode DarkRP en  français
+Traduction du gamemode DarkRP en  français
 
-Voila une traduction du gamemode DARKRP. Vous avez juste a glisser le fichier "english.lua" dans \addon\darkrpmodofication-master\lua\darkrp_language\ 
+Voila une traduction du gamemode DarkRP. Vous avez juste à glisser le fichier "english.lua" dans /addon/darkrpmodofication-master/lua/darkrp_language/ . 
 et remplacer le fichier existant par le fichier dans ce le dossier.
 
-Je metterai à jour le fichier si il y a une mise à jour de l'auteur du Gamemode.
+Le fichier sera mis à jour si il y a une mise à jour de l'auteur du Gamemode.
